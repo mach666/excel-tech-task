@@ -1,0 +1,15 @@
+{
+  "name": "excel_tech_task",
+  "version": "1.0.0",
+  "description": "EXCELLENCE_TECHNOLOGIES_TASK",
+  "main": "API.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PRINCE YADAV",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15"
+  }
+}
